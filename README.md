@@ -15,3 +15,6 @@ Se asumen las siguientes condiciones:
 * Se permite repeticiones dentro de las 5 extraidas
 * Cada amigo compra la misma cantidad de sobres hasta que todos completen su album
 * Las figuritas compradas van a un pool de donde todos pueden tomar la que les falte
+
+# Resultados
+Se corrieron varios grupos manualmente y los resultados estan en el archivo correspondiente. Tambien se incluye el plot que genera el grafico final.
