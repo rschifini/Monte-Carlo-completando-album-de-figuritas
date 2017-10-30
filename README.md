@@ -5,7 +5,9 @@ Este problema es una variante a un problema que publico Walter Sosa Escudero en 
 La variante es: Si se junta un grupo de amigos y cada uno compra un sobre con 5 (con repetidas permitidas) y quieren llenar tantos albumes como amigos. Cuantos sobres promedio tiene que comprar cada uno? Esta implicito que pueden intercambiar repetidas o que hacen un pool de cartas.
 
 # Simulacion
-Se hizo la simulacion en R. Cada simulacion se corre 10K veces.
+Se hizo la simulacion en R. 
+* Cada simulacion se corre 1000 veces. 
+* Se define el vector de los grupos de amigos y se corre una simulacion para cada uno.
 
 # Condiciones del problema
 Se asumen las siguientes condiciones:
@@ -17,4 +19,4 @@ Se asumen las siguientes condiciones:
 * Las figuritas compradas van a un pool de donde todos pueden tomar la que les falte
 
 # Resultados
-Se corrieron varios grupos manualmente y los resultados estan en el archivo correspondiente. Tambien se incluye el plot que genera el grafico final.
+Se corrieron varios grupos y los resultados estan en el archivo correspondiente. Tambien se incluye el plot que genera el grafico final.
